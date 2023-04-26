@@ -1,0 +1,21 @@
+{
+    "name": "net.bobbo.global-knowledge-xnode.editor",
+    "references": [
+        "Unity.Timeline",
+        "net.bobbo.global-knowledge",
+        "net.bobbo.global-knowledge.editor",
+        "net.bobbo.editor-search-window.editor",
+        "net.bobbo.global-knowledge-xnode",
+        "XNode",
+        "XNodeEditor"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
