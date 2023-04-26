@@ -3,8 +3,9 @@ using UnityEngine;
 using UnityEngine.Playables;
 using UnityEngine.Timeline;
 using XNode;
+using BobboNet.Knowledge;
 
-namespace BobboNet.XNode.GlobalKnowledge
+namespace BobboNet.XNode
 {
     public class GlobalKnowledgeConditionNode : Node
     {

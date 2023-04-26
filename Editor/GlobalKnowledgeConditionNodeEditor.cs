@@ -1,8 +1,12 @@
 ﻿using UnityEditor;
 using UnityEngine;
 using XNodeEditor;
+using BobboNet.Knowledge;
+using BobboNet.XNode;
+using BobboNet.Editor;
+using BobboNet.Editor.Knowledge;
 
-namespace BobboNet
+namespace BobboNet.Editor.XNode
 {
     [CustomNodeEditor(typeof(GlobalKnowledgeConditionNode))]
     public class GlobalKnowledgeConditionNodeEditor : NodeEditor

@@ -1,11 +1,11 @@
 {
-    "name": "net.bobbo.global-knowledge-xnode.editor",
+    "name": "BobboNet.Editor.XNode.GlobalKnowledge",
     "references": [
         "Unity.Timeline",
-        "net.bobbo.global-knowledge",
-        "net.bobbo.global-knowledge.editor",
-        "net.bobbo.editor-search-window.editor",
-        "net.bobbo.global-knowledge-xnode",
+        "BobboNet.GlobalKnowledge",
+        "BobboNet.Editor.GlobalKnowledge",
+        "BobboNet.Editor.SearchWindow",
+        "BobboNet.XNode.GlobalKnowledge",
         "XNode",
         "XNodeEditor"
     ],
